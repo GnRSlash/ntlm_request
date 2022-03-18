@@ -12,7 +12,7 @@ Add `ntlm request` to your pubspec.yaml file:
 
 ```yaml
 dependencies:
-  ntlm_request:
+  ntlm_request: 
 ```
 
 Import `ntlm request` in files that it will be used:
